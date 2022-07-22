@@ -1,0 +1,28 @@
+.projects-header {
+    font-size: 48px;
+    font-weight: 500;
+    padding-bottom: 24px;
+}
+
+#project-listing {
+    border: 2px black solid;
+    border-radius: 5px;
+    padding: 24px;
+    margin: 24px 0px;
+}
+
+.project-title {
+    padding-bottom: 24px;
+}
+
+.project-link {
+    font-size: 36px;
+    font-weight: 400;
+    color: blue;
+    text-decoration: none;
+}
+
+.project-desc {
+    font-size: 16px;
+    font-weight: 400;
+}
