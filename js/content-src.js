@@ -8,7 +8,7 @@ export const PROJECT_HEADER = "Projects";
 export const TEXT_CONTENT = [
     {
         title: "What is this?",
-        content: "This is a sandbox where I test and run code in this corner of the web. <br/> Links to my other projects can be found <a href='#projects' class='link'>here</a>."
+        content: "This is a corner of the web where I test and run code. <br/> Links to my other projects can be found <a href='#projects' class='link'>here</a>."
     },
     {
         title: "Who are you?",
